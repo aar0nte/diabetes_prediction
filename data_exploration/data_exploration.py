@@ -38,6 +38,10 @@ data.shape
 
 
 
-pi = 3
-b = 2 * pi
 
+my_value = 5
+
+
+
+# Hi there, this is a new line of code.
+# This is a new line of code.
