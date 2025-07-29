@@ -36,12 +36,3 @@ data[['Glucose', 'BloodPressure', 'SkinThickness', 'BMI']].eq(0).sum()
 
 data.shape
 
-
-
-
-my_value = 5
-
-
-
-# Hi there, this is a new line of code.
-# This is a new line of code.
