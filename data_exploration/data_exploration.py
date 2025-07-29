@@ -37,4 +37,7 @@ data[['Glucose', 'BloodPressure', 'SkinThickness', 'BMI']].eq(0).sum()
 data.shape
 
 
-a = 1 + 1
+
+pi = 3
+b = 2 * pi
+
